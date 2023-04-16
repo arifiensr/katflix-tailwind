@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:wght@400;500&family=Work+Sans:wght@400;500&display=swap');
 
+:root {
+  --color-black-: #2c2727;
+  --color-white-: #f6f4f4;
+  --color-grey-: #3e3939;
+  --color-cream-: #fff3cd;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
